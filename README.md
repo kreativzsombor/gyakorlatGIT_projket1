@@ -1,0 +1,1 @@
+# gyakorlatGIT_projket1
