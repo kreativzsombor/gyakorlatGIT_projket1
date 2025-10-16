@@ -1,4 +1,4 @@
-# gyakorlatGIT_projket1
+Projektcím
 Varga Zsombor 
 11D 
 2025. 10. 16.
